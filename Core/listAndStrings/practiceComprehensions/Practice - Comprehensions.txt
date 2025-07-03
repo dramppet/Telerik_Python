@@ -1,0 +1,24 @@
+1.Write a list comprehension that filters all the numbers which are less than 5 or larger than 15.
+
+[1,15,2,8,31,5,9] -> [1,2,31]
+
+2.Write a list comprehension that filters all the numbers which are prime.
+You will need an is_prime function to use in the conditional part
+
+[1,15,2,8,31,5,9] -> [2,31,5]
+
+3.Write a list comprehension that all the strings which are longer than 5 symbols.
+
+['cat', 'dog', 'elephant', 'cucumber'] -> ['elephant', 'cucumber']
+
+4.Write a list comprehension that creates a new list containing only the elements from the original list that are greater than the average of the list.
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10] -> [6, 7, 8, 9, 10]
+
+5.Write a list comprehension that filters out all the strings which start with a vowel.
+
+['apple', 'banana', 'cherry', 'date', 'orange'] -> ['apple', 'orange']
+
+6.Write a list comprehension that creates a new list where each string is reversed and converted to uppercase.
+
+["hello", "world", "python", "list"] -> ['OLLEH', 'DLROW', 'NOHTYP', 'TSIL']
